@@ -1,5 +1,5 @@
 #!/bin/bash
-#Assignment 4
+#Assignment 2
 #Author: Emily VanDerveer
 #This script sends a customized mail message to user listed 
 #on the command line if they are logged in.
